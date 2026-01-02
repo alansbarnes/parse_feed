@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "parse_feed", "parse_feed\parse_feed.vcxproj", "{91269028-E3DE-4089-BF82-1F8FC0EA337B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91269028-E3DE-4089-BF82-1F8FC0EA337B}.Debug|x64.ActiveCfg = Debug|x64
+		{91269028-E3DE-4089-BF82-1F8FC0EA337B}.Debug|x64.Build.0 = Debug|x64
+		{91269028-E3DE-4089-BF82-1F8FC0EA337B}.Debug|x86.ActiveCfg = Debug|Win32
+		{91269028-E3DE-4089-BF82-1F8FC0EA337B}.Debug|x86.Build.0 = Debug|Win32
+		{91269028-E3DE-4089-BF82-1F8FC0EA337B}.Release|x64.ActiveCfg = Release|x64
+		{91269028-E3DE-4089-BF82-1F8FC0EA337B}.Release|x64.Build.0 = Release|x64
+		{91269028-E3DE-4089-BF82-1F8FC0EA337B}.Release|x86.ActiveCfg = Release|Win32
+		{91269028-E3DE-4089-BF82-1F8FC0EA337B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C256C89F-F2B2-4632-8DDB-871CCFC564F5}
+	EndGlobalSection
+EndGlobal
